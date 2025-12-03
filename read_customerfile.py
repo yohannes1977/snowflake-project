@@ -3,9 +3,9 @@ import pandas as pd
 
 conn = snowflake.connector.connect(
     user="YOHANNES",
-    password="Yoteke19771985@",
-    account="XVARSSD-VKC56305",      
-    warehouse="COMPUTE_WH",
+    password="",
+    account="",      
+    warehouse="",
     database="SNOWFLAKE_LEARNING_DB",
     schema="PUBLIC"
 )
